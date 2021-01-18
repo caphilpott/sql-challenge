@@ -11,7 +11,7 @@ employees,
 salaries,
 and titles
 
-I copied the 6 create table statements into and excel file to start the ERD sketching process. 
+I copied the 6 create table statements into an excel file to start the ERD sketching process. 
 
 With a few tweaks of the create table code using find and replace, identifying the required primary and foreign keys and their referential links, I converted the select statements into a physical ERD. I also used this stage of the process to identify the necessary load order once the foreign keys were applied.
 
