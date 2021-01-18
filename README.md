@@ -2,7 +2,7 @@
 
 After reading over the asignment instructions, I set up a PostgreSQL database called Employee SQL. 
 
-I proceeded to write a series of creat table statements for each data source and to import them just to test and confirm field labeling and data structure. 
+I proceeded to write a series of create table statements for each data source and to import them just to test and confirm field labeling and data structure. 
 Tables created:
 departments
 dept_emp
