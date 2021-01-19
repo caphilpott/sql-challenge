@@ -27,4 +27,4 @@ Tables created and reloaded in load order:
 5 - dept_manager,
 and 6 - salaries,
 
-I proceeded then to respond to each of the query question writing the necessary code to interpret the questions and generate the correct responses. Some queries were basic with very simple criteria. Others required single or multiple joins with single or multiple criteria including the use of wild cards. 
+I proceeded then to respond to each of the query question writing the necessary code to interpret the questions and generate the correct responses. Some queries were basic with very simple criteria. Others required single or multiple joins with single or multiple criteria including the use of wild cards.  
