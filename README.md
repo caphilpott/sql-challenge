@@ -29,6 +29,6 @@ and 6 - salaries,
 
 I proceeded then to respond to each of the query question writing the necessary code to interpret the questions and generate the correct responses. Some queries were basic with very simple criteria. Others required single or multiple joins with single or multiple criteria including the use of wild cards. 
 
-For the bonus, after some research, I utilized the recommended links to establish a means of querying the postgreSQL database. Then I applied both the dataframe merging techniques and SQL joins to create dataframes that allowed for the generation the requested histogram and bar chart. 
+For the bonus, after some research, I utilized the recommended links to establish a means of querying the postgreSQL database. I created a new Anaconda Enviroment as the PSYCOPG2 module was conflicted with other modules I'd previously used. Once the modules were functioning properly, I applied both the dataframe merging techniques and SQL joins to create dataframes that allowed for the generation the requested histogram and bar chart. 
 
 I also confirmed the name of Employee ID 499942 was April Foolsday.
